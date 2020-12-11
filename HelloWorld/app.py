@@ -1,2 +1,2 @@
-price = 10
-print(price)
+name = input('What is your name? ')
+print('Hi ' + name)
